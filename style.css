@@ -1,0 +1,8 @@
+* {
+    font-family: "Times New Roman", serif;
+}
+
+h1, h2 {
+    font-family: "Courier New", monospace;
+    background-color: yellow;
+}
